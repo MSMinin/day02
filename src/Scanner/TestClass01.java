@@ -14,7 +14,6 @@ public class TestClass01 {
 		num = sc.nextInt();
 		
 		System.out.println("이름 : " + name);
-		System.out.println("입력 수 : " + num);
 	}
 
 }
